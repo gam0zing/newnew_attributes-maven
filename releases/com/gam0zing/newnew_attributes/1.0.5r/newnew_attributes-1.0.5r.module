@@ -3,7 +3,7 @@
   "component": {
     "group": "com.gam0zing",
     "module": "newnew_attributes",
-    "version": "1.0.5",
+    "version": "1.0.5r",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "newnew_attributes-1.0.5.jar",
-          "url": "newnew_attributes-1.0.5.jar",
-          "size": 18981,
-          "sha512": "2fcab6bb37dbeb944634e8fc2d6b8a15f6087a2be61b425593fd9211511b453c5d9bb13377cfe221371c5edb680225c56cc9d5f325e4aaa423bd03c435fd8f9f",
-          "sha256": "b0e50c0c6244c44af8e222442337170c690065ddecaf91e7c41b26651a0b5c09",
-          "sha1": "c7118acb809c909a3c4d29d186780038ba2ce2ac",
-          "md5": "8bcfb458766522175f12baaad72c8818"
+          "name": "newnew_attributes-1.0.5r.jar",
+          "url": "newnew_attributes-1.0.5r.jar",
+          "size": 19210,
+          "sha512": "a0c7a01b5c62a243278a3decd043cbeae1b28c11beb71983fab5ec9fa79db3a97ebd38a24053b13564db76ef0cd910c7820d4598e1472c19cc97d39351d55aa4",
+          "sha256": "c753f239c7ce1ca7c98bb6f78c61d8360ecc28c8d09feec8fb07eb990dee9fde",
+          "sha1": "a904385d6ae1a691b6f2f23a163e59b494a3ae3f",
+          "md5": "97439406515fcd3ba1809eb68a61fc79"
         }
       ]
     },
@@ -55,13 +55,13 @@
       ],
       "files": [
         {
-          "name": "newnew_attributes-1.0.5.jar",
-          "url": "newnew_attributes-1.0.5.jar",
-          "size": 18981,
-          "sha512": "2fcab6bb37dbeb944634e8fc2d6b8a15f6087a2be61b425593fd9211511b453c5d9bb13377cfe221371c5edb680225c56cc9d5f325e4aaa423bd03c435fd8f9f",
-          "sha256": "b0e50c0c6244c44af8e222442337170c690065ddecaf91e7c41b26651a0b5c09",
-          "sha1": "c7118acb809c909a3c4d29d186780038ba2ce2ac",
-          "md5": "8bcfb458766522175f12baaad72c8818"
+          "name": "newnew_attributes-1.0.5r.jar",
+          "url": "newnew_attributes-1.0.5r.jar",
+          "size": 19210,
+          "sha512": "a0c7a01b5c62a243278a3decd043cbeae1b28c11beb71983fab5ec9fa79db3a97ebd38a24053b13564db76ef0cd910c7820d4598e1472c19cc97d39351d55aa4",
+          "sha256": "c753f239c7ce1ca7c98bb6f78c61d8360ecc28c8d09feec8fb07eb990dee9fde",
+          "sha1": "a904385d6ae1a691b6f2f23a163e59b494a3ae3f",
+          "md5": "97439406515fcd3ba1809eb68a61fc79"
         }
       ]
     },
@@ -75,13 +75,13 @@
       },
       "files": [
         {
-          "name": "newnew_attributes-1.0.5-sources.jar",
-          "url": "newnew_attributes-1.0.5-sources.jar",
-          "size": 12744,
-          "sha512": "d46d0059a9a00e5440fdf3f57034aa4107bf5bb50a478d7f7c7672c2d62978361e06732d2091e14aa9467affa23bfa952dcd3b5499319e1ced22cc50f9d2049a",
-          "sha256": "daac31c66bce137db5f048d2970bca82eac31754d9cdb949d4b1c9bfe5f8aac3",
-          "sha1": "8caf2568191c92c592dd8dffd924f24d60f9484c",
-          "md5": "e61f4db69a6adf5cbc92ba1fe6d46ba6"
+          "name": "newnew_attributes-1.0.5r-sources.jar",
+          "url": "newnew_attributes-1.0.5r-sources.jar",
+          "size": 12943,
+          "sha512": "af68717538524dff6548b45016f5d05f26b87879acb73824e75c8cde8057d70917c5d076bc595b3db30ffb9ec7071cd2f4ec073d253f54b1d218df1981327165",
+          "sha256": "df5f9c23a431055a16ebdc464555074888559bfdc556d7a5a5c7d062b86691ff",
+          "sha1": "d790158c3d92d46d7629477ef71b2a73c29d94c4",
+          "md5": "556c3e7e2cdc17a53a87542710b71cbe"
         }
       ]
     }
