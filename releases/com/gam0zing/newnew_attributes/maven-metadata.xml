@@ -3,12 +3,13 @@
   <groupId>com.gam0zing</groupId>
   <artifactId>newnew_attributes</artifactId>
   <versioning>
-    <latest>1.0.5r</latest>
-    <release>1.0.5r</release>
+    <latest>1.20.1-1.0.5r</latest>
+    <release>1.20.1-1.0.5r</release>
     <versions>
       <version>1.0.5</version>
       <version>1.0.5r</version>
+      <version>1.20.1-1.0.5r</version>
     </versions>
-    <lastUpdated>20251021081342</lastUpdated>
+    <lastUpdated>20251022074301</lastUpdated>
   </versioning>
 </metadata>
